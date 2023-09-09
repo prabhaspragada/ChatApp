@@ -1,2 +1,2 @@
-# ChatApp
-where u can chat
+# UApp
+where you can chat
